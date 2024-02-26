@@ -1,1 +1,20 @@
 * text=auto
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de tu página</title>
+    <!-- Agrega enlaces a tus hojas de estilo (CSS) aquí -->
+    <!-- Ejemplo: <link rel="stylesheet" href="estilos.css"> -->
+</head>
+<body>
+
+    <!-- Contenido de tu página va aquí -->
+    <h1>Hola, mundo!</h1>
+    <p>Este es un código HTML básico.</p>
+
+    <!-- Agrega enlaces a tus scripts (JavaScript) aquí -->
+    <!-- Ejemplo: <script src="script.js"></script> -->
+</body>
+</html>
